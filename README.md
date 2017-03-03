@@ -1,2 +1,2 @@
 # react-hot-reload
-React JS boiler plate with webpack got reload
+React JS boiler plate with webpack hot reload
